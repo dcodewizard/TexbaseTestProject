@@ -1,0 +1,74 @@
+﻿@model List<WebApplication3.Models.CompayAddressViewModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Companies</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Companies Data</h1>
+
+    <table>
+        <tr>
+            <th>Company ID</th>
+            <th>Company Name</th>
+            <th>Address ID</th>
+            <th>Street</th>
+            <th>City</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CompanyID</td>
+                <td>@item.CompanyName</td>
+                <td>@item.AddressID</td>
+                <td>@item.Street</td>
+                <td>@item.City</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CompanyID }) |
+                    <button class="delete-btn" data-id="@item.CompanyID">Delete</button>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.delete-btn').click(function () {
+                var companyId = $(this).data('id');
+                $.ajax({
+                    url: '@Url.Action("Delete", "Companies")',
+                    type: 'POST',
+                    data: { id: companyId },
+                    success: function (result) {
+                        $(this).closest('div').remove();
+                        alert('Company deleted successfully');
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert('Error Deleting Company');
+                    }
+                });
+            });
+        });
+    </script>
+}

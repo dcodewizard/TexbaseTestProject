@@ -1,0 +1,71 @@
+﻿@model List<WebApplication3.Address>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Companies</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Manage Address</h1>
+
+    <table>
+        <tr>
+            <th>Address ID</th>
+            <th>Street</th>
+            <th>City</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AddressID</td>
+                <td>@item.Street</td>
+                <td>@item.City</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.AddressID }) |
+                    <button class="delete-btn" data-id="@item.AddressID">Delete</button>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.delete-btn').click(function () {
+                var addressId = $(this).data('id');
+                $.ajax({
+                    url: '@Url.Action("Delete", "Addresses")',
+                    type: 'POST',
+                    data: { id: addressId },
+                    success: function (result) {
+                        $(this).closest('div').remove();
+                        alert(result.message);
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert(result.message);
+                    }
+                });
+            });
+        });
+    </script>
+}
+

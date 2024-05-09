@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\datamodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\datamodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\company\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\company\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\contacts\\addcontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\contacts\\addcontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\company\\addcompany.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\company\\addcompany.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\address\\addaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\address\\addaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\address\\manageaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\address\\manageaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\contacts\\editcontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\contacts\\editcontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\editaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\editaddress.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\company\\editcompany.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\company\\editcompany.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\editcompany.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\editcompany.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\addaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\addaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\address\\manageaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\address\\manageaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\company\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\company\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\contacts\\managecontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\contacts\\managecontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\managecontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\managecontacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\address\\editaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\address\\editaddress.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\addcompany.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\addcompany.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|c:\\users\\dev\\downloads\\testproject\\testproject\\section1\\webapplication2\\webapplication2\\contacts\\editcontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\contacts\\editcontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\addcontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\addcontacts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\webapplication2\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1327485-D853-4A9E-8D9C-6FB3C76DB283}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 680,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\DataModel\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebApplication2\\DataModel\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\DataModel\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication2\\DataModel\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-09T13:20:46.267Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Bundle.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Bundle.config",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Bundle.config",
+              "RelativeToolTip": "WebApplication2\\Bundle.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T13:05:23.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Default.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx",
+              "RelativeToolTip": "WebApplication2\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T20:27:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCompany.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\AddCompany.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Company\\AddCompany.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\AddCompany.aspx",
+              "RelativeToolTip": "WebApplication2\\Company\\AddCompany.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T20:31:10.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContacts.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\AddContacts.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Contacts\\AddContacts.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\AddContacts.aspx",
+              "RelativeToolTip": "WebApplication2\\Contacts\\AddContacts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T09:06:09.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Web.config",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeToolTip": "WebApplication2\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-07T20:47:41.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\Home.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Company\\Home.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\Home.aspx",
+              "RelativeToolTip": "WebApplication2\\Company\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T21:06:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAddress.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\AddAddress.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Address\\AddAddress.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\AddAddress.aspx",
+              "RelativeToolTip": "WebApplication2\\Address\\AddAddress.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T11:46:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageAddress.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\ManageAddress.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Address\\ManageAddress.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\ManageAddress.aspx",
+              "RelativeToolTip": "WebApplication2\\Address\\ManageAddress.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T11:28:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication2\\packages.config",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\packages.config",
+              "RelativeToolTip": "WebApplication2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T13:04:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "WebApplication2\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Site.Mobile.Master",
+              "RelativeToolTip": "WebApplication2\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-09T13:04:48.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageAddress.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\ManageAddress.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Address\\ManageAddress.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\ManageAddress.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Address\\ManageAddress.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:33:11.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddAddress.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddAddress.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\AddAddress.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddAddress.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\AddAddress.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:48:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditAddress.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\EditAddress.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\EditAddress.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\EditAddress.aspx",
+              "RelativeToolTip": "WebApplication2\\EditAddress.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T12:45:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditContacts.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\EditContacts.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Contacts\\EditContacts.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\EditContacts.aspx",
+              "RelativeToolTip": "WebApplication2\\Contacts\\EditContacts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T09:06:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditAddress.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\EditAddress.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Address\\EditAddress.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Address\\EditAddress.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Address\\EditAddress.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:48:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:09:01.047Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditContacts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\EditContacts.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Contacts\\EditContacts.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\EditContacts.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Contacts\\EditContacts.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:05:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddContacts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddContacts.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\AddContacts.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddContacts.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\AddContacts.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:55:22.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageContacts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\ManageContacts.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Contacts\\ManageContacts.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Contacts\\ManageContacts.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Contacts\\ManageContacts.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:12:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageContacts.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\ManageContacts.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\ManageContacts.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\ManageContacts.aspx",
+              "RelativeToolTip": "WebApplication2\\ManageContacts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T09:06:36.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Company\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\Home.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Company\\Home.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:43:29.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication2\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:05:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditCompany.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\EditCompany.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Company\\EditCompany.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Company\\EditCompany.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Company\\EditCompany.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:33:45.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCompany.aspx",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\EditCompany.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\EditCompany.aspx",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\EditCompany.aspx",
+              "RelativeToolTip": "WebApplication2\\EditCompany.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T20:33:06.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddCompany.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddCompany.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\AddCompany.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\AddCompany.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\AddCompany.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:31:38.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\testproject\\testproject\\Section1\\WebApplication2\\WebApplication2\\Default.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:28:17.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

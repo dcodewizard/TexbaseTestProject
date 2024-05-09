@@ -1,0 +1,38 @@
+﻿@model WebApplication3.Address
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <form method="post" action="/Address/Create">
+            <div class="form-horizontal">
+                <h4>Create Address</h4>
+                <hr />
+
+                <div class="form-group">
+                    <label for="Street">Street:</label>
+                    <input type="text" id="Street" name="Street" value="@Model.Street" />
+                    @Html.ValidationMessageFor(model => model.Street, "", new { style = "color: red;" })
+                </div>
+
+                <div class="form-group">
+                    <label for="City">City:</label>
+                    <input type="text" id="City" name="City" value="@Model.City" />
+                    @Html.ValidationMessageFor(model => model.City, "", new { style = "color: red;" })
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </form>
+    }
+</body>
+</html>

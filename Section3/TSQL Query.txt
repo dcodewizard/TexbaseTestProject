@@ -1,0 +1,24 @@
+WITH CompanyContacts AS (
+    SELECT 
+        c.CompanyID,
+        c.CompanyName,
+        ct.ContactID,
+        ct.ContactName,
+        a.AddressID,
+        a.Street,
+        a.City
+    FROM 
+        Companies c
+    INNER JOIN 
+        Addresses a ON c.AddressID = a.AddressID
+    inner JOIN 
+        Contacts ct ON ct.AddressID = a.AddressID
+)
+SELECT 
+    CompanyName,
+    ContactName,
+    AddressID,
+    Street,
+    City
+FROM 
+    CompanyContacts

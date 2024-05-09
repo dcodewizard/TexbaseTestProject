@@ -1,0 +1,79 @@
+﻿@model List<WebApplication3.Models.ContactAddressViewModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contacts</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contacts Data</h1>
+
+    <table>
+        <tr>
+            <th>Contact ID</th>
+            <th>Contact Name</th>
+            <th>Email</th>
+            <th>Title</th>
+            <th>Address ID</th>
+            <th>Street</th>
+            <th>City</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ContactID</td>
+                <td>@item.ContactName</td>
+                <td>@item.Email</td>
+                <td>@item.Title</td>
+                <td>@item.AddressID</td>
+                <td>@item.Street</td>
+                <td>@item.City</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ContactID }) |
+                    <button class="delete-btn" data-id="@item.ContactID">Delete</button>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.delete-btn').click(function () {
+                var contactId = $(this).data('id');
+                $.ajax({
+                    url: '@Url.Action("Delete", "Contacts")',
+                    type: 'POST',
+                    data: { id: contactId },
+                    success: function (result) {
+                        $(this).closest('div').remove();
+                        alert('Contact deleted successfully');
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(xhr.responseText);
+                        alert('Error Deleting Contact');
+                    }
+                });
+            });
+        });
+    </script>
+}
+
